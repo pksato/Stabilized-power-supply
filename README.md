@@ -1,2 +1,3 @@
 # Stabilized-power-supply
-0 to 30 Vdc Stabilized Power Supply
+This power supply is orignal from https://www.electronics-lab.com/project/0-30-vdc-stabilized-power-supply-with-current-control-0-002-3-a/
+
